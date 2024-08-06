@@ -1,6 +1,6 @@
 <local:MyCard Title="test" Margin="0,0,0,15" CanSwap="True" IsSwaped="False">
 	<StackPanel Margin="25,40,23,15">
     <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
-      Text="这是一个测试。如果你看到了这行字，请将` b0.2 `告诉我。"/>
+      Text="这是一个测试。如果你看到了这行字，意味着我的测试成功。每当电脑重启时，程序就会自动检查该页面是否有更新，并自动下载新的页面。你可以在这里写入包体更新提醒。"/>
 	</StackPanel>
 </local:MyCard>
